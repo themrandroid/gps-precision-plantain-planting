@@ -48,5 +48,3 @@ The study was carried out with data from **banana plants at Fountain University,
 - Highlighted importance of **variety selection**  
 - Demonstrated effectiveness of **GPS-assisted precision planting** for monitoring and decision-making  
 - Provides clear direction for **agronomic adjustments** and **future planting practices**  
-
-## 📂 Repository Structure
